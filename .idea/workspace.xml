@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6fe131-748c-4aea-adca-fc7b4f2e32e2" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/MyProject/main.css" afterDir="false" />
+    <list default="true" id="ef6fe131-748c-4aea-adca-fc7b4f2e32e2" name="Changes" comment="almost done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/PostsMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/PostsMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProject/UserMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/UserMain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyProject/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/post-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProject/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProject/user-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,11 @@
       <workItem from="1679168919076" duration="208000" />
       <workItem from="1679169161317" duration="116000" />
       <workItem from="1679169280907" duration="1547000" />
-      <workItem from="1679170955071" duration="6995000" />
+      <workItem from="1679170955071" duration="7372000" />
+      <workItem from="1679178695766" duration="2000" />
+      <workItem from="1679178719694" duration="71000" />
+      <workItem from="1679179787270" duration="81000" />
+      <workItem from="1679180219246" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1679170867100</created>
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679170867100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="almost done">
+      <created>1679178419150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679178419150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="almost done" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost done" />
   </component>
 </project>
