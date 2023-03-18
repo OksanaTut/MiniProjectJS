@@ -1,0 +1,61 @@
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.users {
+    width: 48%;
+    border: 5px solid #b7b7e8;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.user {
+    box-sizing: border-box;
+    border: 10px solid #b7b7e8;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+.listOfPosts {
+    box-sizing: border-box;
+    background: lightblue;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.listOfComments{
+    box-sizing: border-box;
+    border:  5px solid lightblue;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.postOfList{
+    border: 1px solid #4a4b49;
+    border-radius: 5px;
+    width: 19%;
+    margin: 5px;
+}
+
+.comment {
+    border: 1px solid #4a4b49;
+    border-radius: 5px;
+    width: 24%;
+    margin: 5px;
+    text-align: center;
+}
+
+.post{
+    display: block;
+    box-sizing: border-box;
+    background: #ce84f3;
+    border-radius: 5px;
+}
